@@ -1,8 +1,7 @@
-# modelagem2
+## Tarefas BEP
 ---
-### Tarefas BEP
-
-- [ ] Criar Menu
+- ### Funcionalidades:
+- [x] Criar Menu
 - [ ] Cadastrar bordado     
 - [ ] Atualizar bordado    
 - [ ] Imprimir bordado      
