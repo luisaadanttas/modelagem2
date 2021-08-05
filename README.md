@@ -2,7 +2,7 @@
 ---
 - ### Funcionalidades:
 - [x] Criar Menu
-- [ ] Cadastrar bordado     
+- [x] Cadastrar bordado     
 - [ ] Atualizar bordado    
 - [ ] Imprimir bordado      
 - [ ] Listar bordados       
